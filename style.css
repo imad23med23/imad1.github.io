@@ -1,0 +1,44 @@
+.main-logo-box a img {
+    margin-left: 60px;
+
+}
+
+
+.slider-contact-info{
+    position: relative;
+    border-top-right-radius: 100px;
+    border-top-left-radius: 100px;
+    height: 190px;
+    width: 450px;
+    background-color: aquamarine;
+}
+
+
+
+
+.text h2 a, .text p{
+    /* color: #fff; */
+}
+
+.big-title {
+    text-align: center;
+}
+
+.btns-box .sp{
+    margin-left: 490px;
+}
+
+.text-holder h3 a{
+    margin-left: 40px;
+}
+
+.tk{
+    margin-left: 84px;
+}
+
+.slogan-img-box {
+    background: url(./assets/images/circle.png);
+    background-size: cover;
+    background-position: center;
+}
+
